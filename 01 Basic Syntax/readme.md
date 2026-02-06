@@ -1,4 +1,4 @@
-##Goal: Get comfortable with Python syntax and execution
+## Goal: Get comfortable with Python syntax and execution
 
 Problems
 - Print "Hello, World!"
